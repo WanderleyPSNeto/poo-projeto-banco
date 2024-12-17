@@ -11,3 +11,6 @@
 - No front-end, acesse a pasta front-end e execute `yarn install` ou `npm install` para instalar as dependências necessárias;
 - No arquivo HTML, utilize a extensão *Live Server* para executar o projeto no navegador;
 - No back-end, vá até `src/allContas/AcessoADado.java` e execute o comando *run java* para rodar a aplicação.
+
+
+- *OBS:* Projeto reupado devido a erros em uma versão de test do Windows 11.
